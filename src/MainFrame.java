@@ -11,7 +11,7 @@ public class MainFrame extends Frame{
     private Label  lab = new Label ("You're sick!");
     private Label  lad2= new Label ("Are u kidding me?");
     private Button btt = new Button("OK");
-    private int x = 100, y =150;
+
 
     public MainFrame(){
         init();
